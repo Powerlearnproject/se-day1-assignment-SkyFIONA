@@ -90,8 +90,18 @@ Importance: Enables collaboration, rollback, and parallel development.
 7.What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 
+Common Challenges in Software Engineering and Solutions
+Meeting Deadlines:
+Solution: Adopt Agile practices for iterative progress.
+Communication Gaps:
+Solution: Use tools like Slack or Trello for clear team collaboration.
+Bug Management:
+Solution: Implement thorough testing and code reviews.
+Staying Updated:
+Solution: Engage in continuous learning through courses and conferences.
 
 8.Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
 
 
 #Part 2: Introduction to AI and Prompt Engineering
