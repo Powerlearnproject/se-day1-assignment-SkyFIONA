@@ -33,6 +33,15 @@ DevOps bridged development and operations, emphasizing continuous integration an
 
 3.List and briefly explain the phases of the Software Development Life Cycle.
 
+Phases of the Software Development Life Cycle (SDLC)
+Planning: Define project scope, objectives, and feasibility.
+Requirements Analysis: Gather and document user needs and system specifications.
+Design: Create architectural blueprints and technical designs.
+Development: Write and compile code based on design documents.
+Testing: Verify and validate functionality, performance, and security.
+Deployment: Deliver the software to users.
+Maintenance: Provide updates, fix bugs, and ensure smooth operation.
+
 
 4.Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
