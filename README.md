@@ -45,8 +45,17 @@ Maintenance: Provide updates, fix bugs, and ensure smooth operation.
 
 4.Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+Comparison: Waterfall vs. Agile Methodologies
+Aspect	Waterfall	Agile
+Structure	Sequential, linear process	Iterative and incremental cycles
+Flexibility	Rigid; changes difficult to accommodate	Highly adaptable to changes
+Documentation	Comprehensive and upfront	Lightweight, ongoing documentation
+Customer Involvement	Limited to initial stages	Continuous involvement through feedback
+Examples	Used in hardware projects, government systems	Ideal for software startups, dynamic apps.
+
 
 5.Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 
 
 6.Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
