@@ -102,6 +102,27 @@ Solution: Engage in continuous learning through courses and conferences.
 
 8.Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
+Types of Testing in Software Quality Assurance
+Unit Testing:
+
+Tests individual components or functions.
+Ensures isolated parts work as intended.
+Integration Testing:
+
+Verifies interactions between combined modules.
+Detects interface issues.
+System Testing:
+
+Tests the complete system as a whole.
+Ensures end-to-end functionality.
+Acceptance Testing:
+
+Validates the software against user requirements.
+Confirms readiness for deployment.
+Importance:
+
+Identifies defects early, saves costs, and ensures high-quality software delivery.
+
 
 
 #Part 2: Introduction to AI and Prompt Engineering
