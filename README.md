@@ -74,8 +74,21 @@ Manages resources, timelines, and communication among stakeholders.
 
 6.Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
+Importance of IDEs and Version Control Systems (VCS)
+Integrated Development Environments (IDEs):
+
+Provide tools like code editors, debuggers, and compilers in one platform.
+Examples: Visual Studio Code, IntelliJ IDEA.
+Importance: Boost productivity, simplify debugging, and enhance code quality.
+Version Control Systems (VCS):
+
+Manage code changes and track history.
+Examples: Git, Subversion (SVN).
+Importance: Enables collaboration, rollback, and parallel development.
+
 
 7.What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 
 
 8.Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
