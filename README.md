@@ -1,4 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=17341904&assignment_repo_type=AssignmentRepo)
+I'm[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=17341904&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
@@ -55,6 +55,20 @@ Examples	Used in hardware projects, government systems	Ideal for software startu
 
 
 5.Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
+Roles and Responsibilities in a Software Engineering Team
+Software Developer:
+
+Writes, tests, and debugs code.
+Collaborates with designers and analysts to implement features.
+Quality Assurance (QA) Engineer:
+
+Designs and executes test cases.
+Ensures software meets quality standards and user expectations.
+Project Manager:
+
+Plans and oversees project execution.
+Manages resources, timelines, and communication among stakeholders.
 
 
 
