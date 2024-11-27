@@ -16,6 +16,20 @@ Global Impact: Powers industries, improves user experiences, and contributes to 
 
 2.Identify and describe at least three key milestones in the evolution of software engineering.
 
+Key Milestones in the Evolution of Software Engineering
+1950s-1960s: The Birth of Software Engineering
+
+Coined during the 1968 NATO Conference, recognizing the "software crisis."
+Introduced structured programming to reduce bugs and inefficiencies.
+1980s: The Rise of Object-Oriented Programming (OOP)
+
+Languages like C++ and Smalltalk promoted code reusability and modular design.
+Enhanced collaboration and scalability.
+2000s-Present: Agile Revolution and DevOps
+
+Agile methodologies introduced iterative development and customer collaboration.
+DevOps bridged development and operations, emphasizing continuous integration and delivery (CI/CD).
+
 
 3.List and briefly explain the phases of the Software Development Life Cycle.
 
